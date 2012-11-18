@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Coco</string>
+				<key>length</key>
+				<string>3:01</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hurt</string>
+				<key>length</key>
+				<string>3:03</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>For Rose</string>
+				<key>length</key>
+				<string>3:11</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>True Romance</string>
+				<key>length</key>
+				<string>3:20</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Distance</string>
+				<key>length</key>
+				<string>2:43</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Wake Up Sister</string>
+				<key>length</key>
+				<string>2:56</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Let&apos;s Roll</string>
+				<key>length</key>
+				<string>3:16</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sunny Bunny Blues</string>
+				<key>length</key>
+				<string>3:06</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Dandy</string>
+				<key>length</key>
+				<string>3:03</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Your Man</string>
+				<key>length</key>
+				<string>3:16</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Promises</string>
+				<key>length</key>
+				<string>3:00</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Létoile</string>
+				<key>length</key>
+				<string>3:07</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>You and Me</string>
+				<key>length</key>
+				<string>3:42</string>
+			</dict>
+		</array>
+		<key>artwork</key>
+		<string>coco.jpg</string>
+		<key>artist</key>
+		<string>Parov Stelar</string>
+		<key>title</key>
+		<string>Coco</string>
+	</dict>
+	<dict>
+		<key>tracks</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Blackened</string>
+				<key>length</key>
+				<string>6:42</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>And Justice For All</string>
+				<key>length</key>
+				<string>9:46</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Eye of the Beholder</string>
+				<key>length</key>
+				<string>6:26</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>One</string>
+				<key>length</key>
+				<string>7:26</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>The Shortest Straw</string>
+				<key>length</key>
+				<string>6:36</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Harvester of Sorrow</string>
+				<key>length</key>
+				<string>5:46</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>The Frayed Ends of Sanity</string>
+				<key>length</key>
+				<string>7:42</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>To Live is to Die</string>
+				<key>length</key>
+				<string>9:49</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Dyers Eve</string>
+				<key>length</key>
+				<string>3:03</string>
+			</dict>
+		</array>
+		<key>artwork</key>
+		<string>justiceForAll.jpg</string>
+		<key>artist</key>
+		<string>Metallica</string>
+		<key>title</key>
+		<string>And Justice For All</string>
+	</dict>
+</array>
+</plist>
